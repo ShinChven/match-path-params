@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha ./test/index.test.js"
   },
-  "keywords": ["path-to=regexp","params","RESTFul route"],
+  "keywords": ["path-to-regexp","params","RESTFul route"],
   "author": {
     "name": "ShinChven ZHANG",
     "email": "shinchven@gmail.com",
