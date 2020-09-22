@@ -1,0 +1,22 @@
+{
+  "name": "match-path-params",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha ./test/index.test.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "ShinChven ZHANG",
+    "email": "shinchven@gmail.com",
+    "url": "https://atlassc.net"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "path-to-regexp": "^6.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
