@@ -12,6 +12,9 @@
     "email": "shinchven@gmail.com",
     "url": "https://atlassc.net"
   },
+  "repository": {
+    "url": "https://github.com/ShinChven/match-path-params.git"
+  },
   "license": "ISC",
   "dependencies": {
     "path-to-regexp": "^6.1.0"
